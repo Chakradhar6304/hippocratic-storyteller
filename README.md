@@ -17,23 +17,28 @@ Built with **Flask**, **OpenAI**, and a beautiful interactive **storybook UI**.
 ## 🖼️ Screenshots
 
 ### 🧠 Story Generation
-<img width="1920" height="1080" alt="Screenshot (796)" src="https://github.com/user-attachments/assets/be7194fa-d06a-4aaf-9355-078532b6c30f" />
+<img width="1845" height="864" alt="Screenshot (796)" src="https://github.com/user-attachments/assets/4f7b298e-3244-4bac-8c47-0dfc914ec798" />
 
 
 ### 🎨 AI Illustration
-<img width="1920" height="1080" alt="Screenshot (795)" src="https://github.com/user-attachments/assets/b33e58d7-ff63-4556-bc3a-707ca7511ccd" />
+<img width="1865" height="854" alt="Screenshot (797)" src="https://github.com/user-attachments/assets/6e260c14-cf91-4ce0-99e8-d14e83367379" />
 
 
 ### 📖 Two-Page Storybook Layout  
-<img width="1920" height="1080" alt="Screenshot (797)" src="https://github.com/user-attachments/assets/334338dd-d824-45d5-9aa2-f5ef573721d6" />
+<img width="1895" height="865" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/d41eb895-923c-4a00-81ee-ebe45761d948" />
 
-### Judge Review
-<img width="1920" height="1080" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/dfcb9259-b23c-469b-a109-d7344dd6a939" />
-
-
-
----
 
 ## 🏗️ Project Structure
+.
+├── app.py # Flask backend
+├── main.py # Story + image generation logic
+├── requirements.txt # Python deps
+├── templates/
+│ └── index.html # Storybook UI
+├── static/
+│ ├── style.css # UI styling
+│ └── script.js # Frontend logic
+└── README.md
+
 
 
