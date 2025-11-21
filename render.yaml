@@ -3,8 +3,12 @@ services:
     name: hippocratic-storyteller
     env: python
     plan: free
+
+    pythonVersion: 3.10.8
+
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app
+
     envVars:
       - key: OPENAI_API_KEY
         sync: false
