@@ -12,12 +12,7 @@ Built with **Flask**, **OpenAI**, and a beautiful interactive **storybook UI**.
 - ⚡ Fast, clean, responsive UI  
 - 📂 Easy to deploy (Flask backend + static frontend)
 
----
 
-## 🚀 Live Demo  
-🔗 *Add link once deployed*
-
----
 
 ## 🖼️ Screenshots
 
@@ -40,4 +35,5 @@ Built with **Flask**, **OpenAI**, and a beautiful interactive **storybook UI**.
 ---
 
 ## 🏗️ Project Structure
+
 
